@@ -1,0 +1,3 @@
+%{
+  "esshd": {:hex, :esshd, "0.3.0", "1470f5712fa4b5b1935c651af3dccbbb5805b9d773ea1f237a8fd0838a8a214f", [:mix], [], "hexpm", "2ca8126f755bda1861261cd1cfb2435108d1cb19fb67692d0df50302c92dbd8a"},
+}
